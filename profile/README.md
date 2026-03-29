@@ -2,7 +2,6 @@
 
 ![JekyllNet social preview](https://raw.githubusercontent.com/JekyllNet/JekyllNet/main/docs/assets/brand/social-preview.png)
 
-![JekyllNet lockup](https://raw.githubusercontent.com/JekyllNet/JekyllNet/main/docs/assets/brand/jekyll-net-lockup.svg)
 
 **Jekyll-style Static Site Generator for .NET**  
 **用 C# 重建 Jekyll / GitHub Pages 风格站点生成体验**
